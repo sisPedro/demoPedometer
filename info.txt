@@ -1,3 +1,9 @@
+Node version: v6.11.0
+
+Cordova version: 8.1.1
+
+Config.xml file: 
+
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="ar.com.poweringargentina.pedo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>pedometer</name>
@@ -87,3 +93,14 @@
     <plugin name="cordova-plugin-pedometer" spec="https://github.com/leecrossley/cordova-plugin-pedometer" />
     <engine name="ios" spec="4.5.5" />
 </widget>
+
+
+Plugins: 
+
+cordova-plugin-device,cordova-plugin-ionic-keyboard,cordova-plugin-ionic-webview,cordova-plugin-pedometer,cordova-plugin-splashscreen,cordova-plugin-statusbar,cordova-plugin-whitelist
+
+iOS platform:
+
+Xcode 10.1
+Build version 10B61
+
